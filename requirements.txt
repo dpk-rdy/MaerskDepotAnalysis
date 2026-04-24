@@ -1,0 +1,24 @@
+# Maersk Depot Segmentation — Python Dependencies
+# Tested on Python 3.10
+# Install with: pip install -r requirements.txt
+
+# Core data
+pandas==2.1.4
+numpy==1.26.4
+
+# Machine learning
+scikit-learn==1.4.2
+
+# Explainability
+shap==0.44.1
+
+# Scientific computing
+scipy==1.12.0
+
+# Visualisation
+matplotlib==3.8.3
+seaborn==0.13.2
+
+# Notebook environment
+jupyter==1.0.0
+ipykernel==6.29.3
